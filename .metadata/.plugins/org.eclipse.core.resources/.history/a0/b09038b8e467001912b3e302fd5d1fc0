@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class facebook {
 
-	public static void main(String[] args) throws InterruptedException {
+	public static void main(String[] args) {
 		
 		//Open browser
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\chint\\ChromeWebDriver\\chromedriver.exe");
@@ -65,7 +65,7 @@ public class facebook {
 	//input[@name='lastname' and @id='u_0_l']    or write it in shorter form with one unique attribute
 	//*[@id='u_0_l']//preceding::input[17]
 	//*[@id='u_0_l']//following::input[6]	
-	 Thread.sleep(5000);
+	
 	
 	}
 

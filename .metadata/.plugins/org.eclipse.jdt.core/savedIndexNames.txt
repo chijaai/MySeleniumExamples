@@ -16,7 +16,6 @@ INDEX VERSION 1.131+C:\Users\chint\eclipse-workspace\.metadata\.plugins\org.ecli
 3705452257.index
 402782763.index
 1897928139.index
-4042170851.index
 2393630692.index
 899518542.index
 1188785453.index
